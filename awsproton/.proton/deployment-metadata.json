@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "bdca9da7-5ff3-4f4c-bed6-06a0dda0a064",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:063667596216:environment/awsproton",
     "templateArn" : "arn:aws:proton:us-east-1:063667596216:environment-template/testproton",
